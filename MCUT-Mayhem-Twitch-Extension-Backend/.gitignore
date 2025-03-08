@@ -1,8 +1,0 @@
-__pycache__
-.env
-venv/
-node_modules/
-data.db
-instance/
-.prettierrc
-*.pem
