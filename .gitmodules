@@ -1,0 +1,9 @@
+[submodule "MCUT-Mayhem-Twitch-Extension-Backend"]
+	path = MCUT-Mayhem-Twitch-Extension-Backend
+	url = https://github.com/xanmankey/MCUT-Mayhem-Twitch-Extension-Backend.git
+[submodule "MCUT-Mayhem-Streamer-WebApp"]
+	path = MCUT-Mayhem-Streamer-WebApp
+	url = https://github.com/xanmankey/MCUT-Mayhem-Streamer-WebApp.git
+[submodule "MCUT-Mayhem-Viewer-WebApp"]
+	path = MCUT-Mayhem-Viewer-WebApp
+	url = https://github.com/xanmankey/MCUT-Mayhem-Viewer-WebApp.git
